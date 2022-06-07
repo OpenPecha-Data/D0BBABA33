@@ -5,7 +5,7 @@ annotations:
   57ef76f4da14432f807241251a6b7500:
     parts: {}
     span:
-    - vol: 1
+    - base: '3420'
       start: 0
       end: 11283
     work_id: D1109
